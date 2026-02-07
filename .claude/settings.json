@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run /Users/charithnuwan/Documents/ClaudeCodeCrashCourse/claudecode-learning/play_sound.py"
+          }
+        ]
+      }
+    ]
+  }
+}
