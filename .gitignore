@@ -1,0 +1,5 @@
+# Claude Code directory
+.claude/
+
+# Playwright MCP directory
+.playwright-mcp/
